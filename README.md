@@ -20,7 +20,7 @@ Most **[Audio Issues](https://github.com/computerissues/Audio-Issues)** problems
  10. Check the IDT High Definition Audio CODEC
  11. Update the Installed Audio Drivers
  12.Check the App Permissions for Microphone
-**Note:** For complete information about the ios issue, go to the given link **[Audio Issues](https://github.com/computerissues/Audio-Issues)** and get rid of your problem easily.
+* **Note:** For complete information about the ios issue, go to the given link **[Audio Issues](https://github.com/computerissues/Audio-Issues)** and get rid of your problem easily.
 
 ## Troubleshoot audio problems, always begin with the following steps:
 
